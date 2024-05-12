@@ -9,7 +9,7 @@ To run the Sign Language Detector, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/SignLanguageDetector.git
+    git clone https://github.com/nrnavaneet/SignLanguageDetector.git
     ```
 
 2. Install the required dependencies:
